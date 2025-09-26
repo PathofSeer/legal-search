@@ -1,2 +1,2 @@
 # legal-search
-a small building block for production grade semantic legal researcher
+a small building block for a bigger project
